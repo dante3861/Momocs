@@ -183,5 +183,4 @@ ggtree(dre4,layout = "fan") +
   scale_color_manual(values = cols1)+
   geom_tippoint(aes(color = type, shape = shpp),size=0.7)
 
-# cluster evaluation
 
